@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aminemahd13
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python and C++
+- 🌱 I’m currently working with python and C++
 - 📫 How to reach me 
 contact@aminemahdane.com
 <!---
